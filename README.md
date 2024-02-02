@@ -1,4 +1,4 @@
-##🎇🎇 Proyectos y aplicaciones que hago por gusto :D 🎇🎇
+## 🎇🎇 Proyectos y aplicaciones que hago por gusto :D 🎇🎇
 
 <!--
 **IamQuero/IamQuero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
